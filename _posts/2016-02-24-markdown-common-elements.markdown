@@ -1,7 +1,7 @@
 ---
 title: "Markdown Common Elements"
 layout: post
-date: 2016-02-24 22:44
+date: 2017-07-20 10:30
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
